@@ -1,1 +1,1 @@
-"# CT_MRI_Alignment" 
+CT_MRI_Alignment
